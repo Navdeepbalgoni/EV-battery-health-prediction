@@ -1,0 +1,7 @@
+Charging_Status,Charging_Type,Reading_Count,Avg_Power_kW,Avg_Temperature_C,Max_Temperature_C,Avg_Resistance_mOhm,Avg_SOH,Fast_Charge_Stress_Count,High_Temp_Reading_Pct
+Discharging,Slow,2816780,-3.288,28.44,33.84,32.72,87.2,0,0.0
+Discharging,Fast,1260534,-3.43,28.4,33.86,32.56,87.34,0,0.0
+Idle,Slow,347498,0.002,28.16,33.1,32.44,87.45,0,0.0
+Idle,Fast,149626,0.006,27.96,33.2,33.29,86.71,0,0.0
+Charging,Slow,29390,1.559,28.6,33.04,31.78,88.03,0,0.0
+Charging,Fast,16172,6.449,28.4,33.4,34.28,85.86,3202,0.0

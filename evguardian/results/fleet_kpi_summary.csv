@@ -1,0 +1,2 @@
+Total_Telemetry_Readings,Fleet_Avg_SOH_Pct,Fleet_Min_SOH_Pct,Fleet_Avg_Temp_C,Fleet_Max_Temp_C,Fleet_Avg_Resistance_mOhm,Fleet_Max_Imbalance_mV,Fleet_Avg_Risk_Score,Total_Early_Fault_Alerts,Total_Fast_Charge_Stress_Events,Total_Monitored_Vehicles
+4620000,87.24,72.53,28.39,33.86,32.67,23.67,5.02,0,3202,980876

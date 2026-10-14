@@ -1,0 +1,4 @@
+Vehicle_Type,Total_Telemetry_Readings,Distinct_Vehicles,Avg_SOH,Avg_Capacity_Loss_Wh,Avg_Cycles_Per_Year,Avg_Temperature_C,Avg_Resistance_mOhm,Avg_Risk_Score,Total_Fault_Alerts
+Scooter,2773463,930204,86.21,483.85,198.58,28.38,33.86,6.25,0
+Motorcycle,892664,588616,87.75,671.41,129.74,28.35,32.09,4.15,0
+Car,953873,612055,89.76,4355.93,55.03,28.48,29.78,2.27,0

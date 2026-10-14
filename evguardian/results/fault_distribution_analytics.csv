@@ -1,0 +1,6 @@
+Health_Status,Fault_Severity_Level,Telemetry_Points,Avg_SOH,Avg_Temperature_C,Avg_Imbalance_mV,Avg_Risk_Score
+Degraded,MEDIUM,3963,74.55,28.22,22.33,26.62
+Moderate,MEDIUM,5145,75.41,28.5,22.33,25.58
+Degraded,LOW,187,74.87,28.37,21.28,24.63
+Moderate,LOW,1452758,82.0,28.4,16.86,11.54
+Healthy,LOW,3157947,89.69,28.39,10.66,1.96

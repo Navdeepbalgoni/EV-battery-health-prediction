@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets & Parquet Marts (Exceeds GitHub 100MB limit)
+evguardian/data/
+evguardian/results/master_vehicle_health.csv
+evguardian/results/vehicle_health_summary.csv
+
+# Local environment / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
